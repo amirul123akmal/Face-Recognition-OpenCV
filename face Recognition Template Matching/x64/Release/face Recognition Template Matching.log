@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\Users\amiru\Documents\VS 2019\face Recognition Template Matching\face Recognition Template Matching\src\Source.cpp(21,15): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\amiru\Documents\VS 2019\face Recognition Template Matching\face Recognition Template Matching\src\Source.cpp(21,47): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\amiru\Documents\VS 2019\face Recognition Template Matching\face Recognition Template Matching\src\Source.cpp(54,30): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\amiru\Documents\VS 2019\face Recognition Template Matching\face Recognition Template Matching\src\Source.cpp(55,31): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Generating code
+  1 of 166 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  face Recognition Template Matching.vcxproj -> C:\Users\amiru\Documents\VS 2019\face Recognition Template Matching\x64\Release\face Recognition Template Matching.exe
